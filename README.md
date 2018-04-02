@@ -1,2 +1,3 @@
 # hello-world
 My summer sql project
+I am going to make a project to learn how to use databases more efficiently with MySql. I think I might try to utilize information from the NBA's database to make a lot of information about players and then use sql commands to order that information efficiently. I want to get an internship working for the church at their riverton office building and they told me that i am going to need to know how to use Sql efficiently. I will likely take a course on Lynda.com to learn more about it, and then look up other tutorials so that I can get very comfortable with it, enough to pass the interview.
